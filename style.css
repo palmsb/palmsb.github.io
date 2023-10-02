@@ -695,7 +695,7 @@ span{
 
     .title h2{
         font-size: 50px;
-        margin-left: 95px;
+        margin-left: -20px;
         width: 100px;
     }
 
@@ -704,5 +704,14 @@ span{
         margin-left: 110px;
     }
 
+    .p-col p{
+    font-size: 13px;
+    letter-spacing: 2px;
+    padding: 10px;
 }
 
+    .p-btn{
+        margin-left: -110px ;
+    }
+
+} 
