@@ -309,7 +309,7 @@ span{
 /*--------------------Projetos--------------------*/
 
 .d-proj{
-    background-color:#e9d8fd80;
+    background-color:#dab3e97e;
     width: 100%;
     padding: 120px;
     align-items: center;
@@ -362,10 +362,11 @@ span{
 }
 
 .p-col p{
-    font-size: 20px;
+    font-size: 15px;
     line-height: 25px;
     margin-bottom: 15px;
     color: #1c0936;
+    letter-spacing: 2px;
 }
 
 
